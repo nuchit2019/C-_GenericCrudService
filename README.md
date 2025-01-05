@@ -1,6 +1,6 @@
 # GenericCrudService
 
-GenericCrudService เป็นโปรเจกต์ .NET Web API ที่ใช้ในการจัดการข้อมูล CRUD (Create, Read, Update, Delete) สำหรับ `Product` และ `Customer` โดยใช้ Entity Framework Core และฐานข้อมูลในหน่วยความจำ (In-Memory Database)
+GenericCrudService ใช้ในการจัดการข้อมูล CRUD (Create, Read, Update, Delete) สำหรับ `Product` และ `Customer`,Entity อื่นๆ  โดยใช้ Entity Framework Core และฐานข้อมูลในหน่วยความจำ (In-Memory Database)
 
 ## รายละเอียด
 
