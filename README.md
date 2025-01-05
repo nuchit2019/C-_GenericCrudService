@@ -167,4 +167,12 @@ Visual Studio หรือเครื่องมือที่รองรั
 dotnet test
 ```
 
+---
+For questions or support, please contact:  
+**Nuchit Atjanawat**  
+**Email**: nuchit@outlook.com  
+**GitHub**: [nuchit2019](https://github.com/nuchit2019)
+
+--- 
+
  
