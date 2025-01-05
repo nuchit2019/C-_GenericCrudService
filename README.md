@@ -114,7 +114,7 @@ namespace GenericCrudService.Service
 ### ขั้นตอนที่ 1: Clone โปรเจกต์
 
 ```bash
-git clone https://github.com/your-username/GenericCrudService.git
+git clone https://github.com/nuchit2019/CS_GenericCrudService.git
 ```
 
 ### ขั้นตอนที่ 2: 
